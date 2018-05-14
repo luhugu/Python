@@ -7,7 +7,6 @@ Created on 2018年5月14日
 '''
 
 from pip._vendor.distlib.compat import raw_input
-from audioop import ratecv
 
 profit = int(raw_input('Profit:'))
 scope = [1000000, 600000, 400000, 200000, 100000,0]
